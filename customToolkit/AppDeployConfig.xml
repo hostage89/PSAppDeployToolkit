@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+<appVendor>Midco</appVendor>
+<appName>TestApp</appName>
+<appVersion>0.0.1</appVersion>
+<appArch>x64</appArch>
+<appScriptVersion>1.0.0</appScriptVersion>
+<appScriptDate>01/04/2019</appScriptDate>
+<appScriptAuthor>Frank Schmidt</appScriptAuthor>
+<chocoName>7zip</chocoName>
+</settings>
